@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771470943989",
+    "project_id": "uasprakmobile",
+    "storage_bucket": "uasprakmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771470943989:android:e7073fc0f46c73f1a407bc",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJlqiz5tBJDhfple-yv_ZYirAcNa-4Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
